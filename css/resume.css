@@ -190,7 +190,6 @@ font {
 
 a {
   color: rgb(190, 45, 45);
-  text-decoration: underline;
 }
 
 a:hover, a:focus, a:active {
