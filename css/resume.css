@@ -177,17 +177,38 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: rgb(190, 45, 45) !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: rgb(190, 45, 45) !important;
+}
+
+font {
+  color: rgb(190, 45, 45);
 }
 
 a {
-  color: #BD5D38;
+  color: rgb(190, 45, 45);
+  text-decoration: underline;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: rgb(46, 112, 150);
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+}
+
+button{
+  background-color: rgb(190, 45, 45); 
+  border: none;
+  color: white;
+  padding: 1px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
