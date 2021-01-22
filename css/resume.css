@@ -30,12 +30,12 @@ h6 {
 }
 
 h1 {
-  font-size: 4.5rem;
-  line-height: 5.5rem;
+  font-size: 3.5rem;
+  line-height: 4.5rem;
 }
 
 h2 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 h3 {
@@ -43,7 +43,7 @@ h3 {
 }
 
 p.lead {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 400;
   color: #424649;
 }
